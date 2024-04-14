@@ -1,0 +1,5 @@
+task hello{
+    do last {
+        4.times {print "$it "}
+    }
+}
